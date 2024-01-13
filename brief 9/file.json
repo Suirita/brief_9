@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "title": "Casual Cotton T-Shirt",
+        "price": 14.99,
+        "description": "Comfortable and stylish cotton t-shirt for everyday wear. It offers a relaxed fit and is perfect for casual occasions. The shirt is crafted from high-quality cotton for maximum comfort.",
+        "category": "men's",
+        "image": "images/Casual Cotton T-Shirt.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 50
+        }
+    },
+    {
+        "id": 2,
+        "title": "Leather Jacket",
+        "price": 89.99,
+        "description": "A classic leather jacket that exudes ruggedness and timeless style. This jacket is a versatile addition to any wardrobe, providing both warmth and fashion. It features a durable leather construction and a comfortable fit.",
+        "category": "men's",
+        "image": "images/Leather Jacket.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 35
+        }
+    },
+    {
+        "id": 3,
+        "title": "Running Shoes",
+        "price": 49.95,
+        "description": "High-performance running shoes designed for an active lifestyle. These shoes offer comfort and support for all your running needs. The breathable material ensures your feet stay cool during intense workouts.",
+        "category": "men's",
+        "image": "images/Running Shoes.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 80
+        }
+    },
+    {
+        "id": 4,
+        "title": "Summer Dress",
+        "price": 29.99,
+        "description": "Light and airy summer dress for a fashionable and breezy look. Perfect for warm days and casual outings. The dress features a flattering silhouette and a vibrant design.",
+        "category": "women's",
+        "image": "images/Summer Dress.jpg",
+        "rating": {
+            "rate": 3.8,
+            "count": 25
+        }
+    },
+    {
+        "id": 5,
+        "title": "Designer Watch",
+        "price": 129.99,
+        "description": "An elegant and sophisticated designer watch suitable for any occasion. This timepiece adds a touch of luxury to your wrist. It features a high-quality build and precise timekeeping.",
+        "category": "women's",
+        "image": "images/Designer Watch.jpg",
+        "rating": {
+            "rate": 4.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 6,
+        "title": "Classic Leather Wallet",
+        "price": 39.99,
+        "description": "A timeless leather wallet designed to keep your essentials organized. Stylish and functional, it complements any outfit. The wallet features multiple compartments for cards and cash.",
+        "category": "men's",
+        "image": "images/Classic Leather Wallet.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 60
+        }
+    },
+    {
+        "id": 7,
+        "title": "Denim Jeans",
+        "price": 39.99,
+        "description": "Classic denim jeans for a casual and comfortable look. Versatile and durable, these jeans are a wardrobe staple. The denim is of high quality, ensuring long-lasting wear.",
+        "category": "men's",
+        "image": "images/Denim Jeans.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 60
+        }
+    },
+    {
+        "id": 8,
+        "title": "Elegant Evening",
+        "price": 79.99,
+        "description": "An elegant evening gown designed for special occasions. This gown combines sophistication and glamour for a stunning look. The gown features intricate detailing and a flattering silhouette.",
+        "category": "women's",
+        "image": "images/Elegant Evening Gown.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 40
+        }
+    },
+    {
+        "id": 9,
+        "title": "Cotton Polo Shirt",
+        "price": 24.99,
+        "description": "A classic cotton polo shirt for a smart and casual look. Perfect for both casual and semi-formal occasions. The shirt is made from high-quality cotton for comfort and ventilation.",
+        "category": "men's",
+        "image": "images/Cotton Polo Shirt.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 55
+        }
+    },
+    {
+        "id": 10,
+        "title": "Floral Print Dress",
+        "price": 34.99,
+        "description": "A lovely floral print dress that adds a touch of elegance to your wardrobe. Perfect for a feminine and stylish look. The dress features a flattering fit and vibrant floral patterns.",
+        "category": "women's",
+        "image": "images/Floral Print Dress.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 70
+        }
+    },
+    {
+        "id": 11,
+        "title": "Sports Jacket",
+        "price": 59.99,
+        "description": "Stylish sports jacket for a trendy and active lifestyle. This jacket combines fashion and functionality for a modern look. It is crafted with quality materials for durability.",
+        "category": "men's",
+        "image": "images/Sports Jacket.jpg",
+        "rating": {
+            "rate": 4.0,
+            "count": 30
+        }
+    },
+    {
+        "id": 12,
+        "title": "Strapless Evening Gown",
+        "price": 99.99,
+        "description": "A stunning strapless evening gown for glamorous occasions. This gown is designed to make a statement and turn heads. It features a luxurious design and a flattering silhouette.",
+        "category": "women's",
+        "image": "images/Strapless Evening Gown.jpg",
+        "rating": {
+            "rate": 4.9,
+            "count": 90
+        }
+    },
+    {
+        "id": 13,
+        "title": "Hiking Boots",
+        "price": 79.95,
+        "description": "Durable hiking boots for outdoor adventures. These boots are designed to provide support and comfort during hiking and other outdoor activities. The rugged design ensures durability on various terrains.",
+        "category": "men's",
+        "image": "images/Hiking Boots.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 65
+        }
+    },
+    {
+        "id": 14,
+        "title": "Bohemian Maxi Dress",
+        "price": 44.99,
+        "description": "A bohemian maxi dress for a relaxed and free-spirited look. This dress features a flowing design and vibrant patterns, perfect for a carefree and stylish appearance.",
+        "category": "women's",
+        "image": "images/Bohemian Maxi Dress.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 45
+        }
+    },
+    {
+        "id": 15,
+        "title": "Sweatshirt",
+        "price": 29.99,
+        "description": "Cozy and warm sweatshirt for chilly days. This sweatshirt is designed for comfort and style, making it an essential item for your casual wardrobe. The soft fabric provides warmth during colder seasons.",
+        "category": "men's",
+        "image": "images/Sweatshirt.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 75
+        }
+    },
+    {
+        "id": 16,
+        "title": "Silk Blouse",
+        "price": 49.99,
+        "description": "A luxurious silk blouse for an elegant and refined look. This blouse is crafted from high-quality silk, offering a smooth and sophisticated appearance. Perfect for formal and upscale occasions.",
+        "category": "women's",
+        "image": "images/Silk Blouse.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 85
+        }
+    },
+    {
+        "id": 17,
+        "title": "Denim Shorts",
+        "price": 19.99,
+        "description": "Casual denim shorts for a laid-back summer style. These shorts are perfect for warm weather, offering comfort and a relaxed fit. A versatile addition to your casual wardrobe.",
+        "category": "men's",
+        "image": "images/Denim Shorts.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 40
+        }
+    },
+    {
+        "id": 18,
+        "title": "Striped Midi Dress",
+        "price": 39.99,
+        "description": "A stylish striped midi dress for a fashionable look. This dress features a timeless striped pattern and a midi length, making it a versatile and trendy choice for various occasions.",
+        "category": "women's",
+        "image": "images/Striped Midi Dress.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 60
+        }
+    },
+    {
+        "id": 19,
+        "title": "Casual Sneakers",
+        "price": 34.95,
+        "description": "Comfortable casual sneakers for everyday wear. These sneakers combine style and comfort, making them suitable for various casual activities. The classic design complements a range of outfits.",
+        "category": "men's",
+        "image": "images/Casual Sneakers.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 50
+        }
+    },
+    {
+        "id": 20,
+        "title": "Lace Cocktail Dress",
+        "price": 59.99,
+        "description": "A lace cocktail dress for a chic and sophisticated look. This dress features delicate lace detailing, providing an elegant and timeless appearance. Perfect for formal events and parties.",
+        "category": "women's",
+        "image": "images/Lace Cocktail Dress.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 70
+        }
+    },
+    {
+        "id": 21,
+        "title": "Classic Denim Jacket",
+        "price": 59.99,
+        "description": "A timeless classic denim jacket for a casual and versatile look. This jacket is a wardrobe essential, offering a laid-back and stylish option for various outfits. The durable denim ensures long-lasting wear.",
+        "category": "men's",
+        "image": "images/Classic Denim Jacket.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 55
+        }
+    },
+    {
+        "id": 22,
+        "title": "Vintage Floral Blouse",
+        "price": 39.99,
+        "description": "A vintage floral blouse for a touch of retro charm. This blouse features a nostalgic floral pattern, adding a unique and stylish element to your wardrobe. Perfect for a vintage-inspired look.",
+        "category": "women's",
+        "image": "images/Vintage Floral Blouse.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 40
+        }
+    },
+    {
+        "id": 23,
+        "title": "Leather Messenger Bag",
+        "price": 79.95,
+        "description": "A stylish leather messenger bag for your daily essentials. This bag combines functionality with fashion, offering ample storage and a sophisticated appearance. Perfect for work or casual use.",
+        "category": "men's",
+        "image": "images/Leather Messenger Bag.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 70
+        }
+    },
+    {
+        "id": 24,
+        "title": "Boho Chic Maxi Skirt",
+        "price": 49.99,
+        "description": "A boho chic maxi skirt for a free-spirited and stylish look. This skirt features a flowing design and bohemian patterns, making it a versatile and trendy choice for various occasions.",
+        "category": "women's",
+        "image": "images/Boho Chic Maxi Skirt.jpg",
+        "rating": {
+            "rate": 4.9,
+            "count": 80
+        }
+    },
+    {
+        "id": 25,
+        "title": "Casual Canvas Sneakers",
+        "price": 29.95,
+        "description": "Comfortable and casual canvas sneakers for everyday wear. These sneakers offer a relaxed and stylish option for various casual activities. The canvas material ensures ventilation..",
+        "category": "men's",
+        "image": "images/Casual Canvas Sneakers.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 45
+        }
+    },
+    {
+        "id": 26,
+        "title": "Chic Wrap Dress",
+        "price": 69.99,
+        "description": "A chic wrap dress for a sophisticated and flattering silhouette. This dress features a wrap-style design, providing a stylish and comfortable fit. Perfect for a polished and modern look.",
+        "category": "women's",
+        "image": "images/Chic Wrap Dress.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 60
+        }
+    },
+    {
+        "id": 27,
+        "title": "Casual Slim Fit Shirt",
+        "price": 34.99,
+        "description": "A casual slim fit shirt for a polished and modern look. This shirt offers a tailored fit and a versatile design, making it suitable for various casual and semi-formal occasions.",
+        "category": "men's",
+        "image": "images/Casual Slim Fit Shirt.jpg",
+        "rating": {
+            "rate": 4.0,
+            "count": 35
+        }
+    },
+    {
+        "id": 28,
+        "title": "Striped Knit Sweater",
+        "price": 44.99,
+        "description": "A cozy striped knit sweater for warmth and style. This sweater combines comfort with fashion, featuring a classic striped pattern. Perfect for chilly days, it adds a touch of sophistication to your winter wardrobe.",
+        "category": "women's",
+        "image": "images/Striped Knit Sweater.jpg",
+        "rating": {
+            "rate": 3.8,
+            "count": 25
+        }
+    },
+    {
+        "id": 29,
+        "title": "Classic Leather Belt",
+        "price": 19.95,
+        "description": "A classic leather belt to add a finishing touch to your outfit. Crafted with quality leather, this belt offers both style and durability. The timeless design makes it a versatile accessory for both casual and formal occasions.",
+        "category": "men's",
+        "image": "images/Classic Leather Belt.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 30
+        }
+    },
+    {
+        "id": 30,
+        "title": "Floral Print Jumpsuit",
+        "price": 54.99,
+        "description": "A trendy floral print jumpsuit for a fashionable and playful look. This jumpsuit is a versatile and stylish piece for various occasions. The floral pattern adds a touch of vibrancy, making it a standout wardrobe choice.",
+        "category": "women's",
+        "image": "images/Floral Print Jumpsuit.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 50
+        }
+    }
+]

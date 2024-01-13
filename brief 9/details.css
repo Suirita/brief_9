@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    overflow-x: hidden;
+    cursor: default;
+}
+
+#navbar {
+    background-color: var(--bs-dark);
+    color: var(--bs-white);
+    height: 75px;
+    z-index: 100;
+}
+
+.navbar a,
+.navbar a:focus {
+    color: var(--bs-white);
+    font-size: 20px;
+    font-weight: 600;
+    border-bottom: 4px solid transparent;
+}
+
+.navbar a:hover {
+    color: var(--bs-blue);
+}
+
+.dropdown-menu{
+    background-color: var(--bs-dark);
+}
+
+.dropdown-menu a:hover {
+    color: var(--bs-red);
+}
+
+#singing_button {
+    border-radius: 20px;
+    background-color: var(--bs-white);  
+    color: var(--bs-dark);
+}
+
+#singing_button:hover {
+    background-color: var(--bs-dark);
+    color: var(--bs-white);
+}
+
+#container img{
+    width: 50vw;
+    height: auto;
+    object-fit: cover;
+}
